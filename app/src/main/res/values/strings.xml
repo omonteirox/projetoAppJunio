@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quizKaza</string>
+    <string name="fazer_login">Fazer Login</string>
+    <string name="criar_usu_rio">Criar Usuário</string>
+    <string name="esqueci_a_senha">Esqueci a senha</string>
+    <string name="logo_da_imagem">Logo da imagem</string>
+</resources>
